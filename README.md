@@ -9,7 +9,6 @@ I'm excited to exchange ideas with like-minded people and realise many innovativ
 
 ####  🎶 What currently helps me with programming:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arne-witteler&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=arne-witteler&redirect=true)
-
 #### 🤔 Want to know more about me?
 Visit my **LinkedIn** profile: **[LinkedIn](https://www.linkedin.com/in/arne-witteler-7488b01b7/)**
 
