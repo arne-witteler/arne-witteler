@@ -1,6 +1,7 @@
 # Hello there 👋, I'm Arne!
 Welcome to my GitHub profile.
 
-- 🙍‍♂️ 27
+- 🙍‍♂️ 28
+- Frontend Developer
 - 🌍 Berlin, Germany
 
