@@ -5,3 +5,4 @@ Welcome to my GitHub profile.
 - Frontend Developer
 - 🌍 Berlin, Germany
 
+![Codewars](https://github.r2v.ch/codewars?user=arne-witteler)
